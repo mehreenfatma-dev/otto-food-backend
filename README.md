@@ -1,3 +1,7 @@
+## 🚀 Live Project
+
+### 🌐 Frontend (User Interface)
+[🌐 Click to Open Frontend](https://otto-food-truck-frontend.vercel.app/)
 # Deploy the Backend
 
 Click this button to deploy to Vercel:
